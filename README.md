@@ -11,7 +11,7 @@ You will need to use node.js. Once installed type 'npm init' and 'npm i inquirer
 ## Usage
 
 To use this program in the same integrated terminal as used before type 'node index.js' to run the program.
-This [video]() has a more indepth walkthrough of the program. 
+This [video](https://drive.google.com/file/d/1TIjg35CczIiyJwbzPYvFONeMnF9_hYfH/view) has a more indepth walkthrough of the program. 
 
 ## Credits 
 
@@ -45,4 +45,4 @@ SOFTWARE.
 
 ## Link
 
-[Video]() link again
+[Video](https://drive.google.com/file/d/1TIjg35CczIiyJwbzPYvFONeMnF9_hYfH/view) link again
